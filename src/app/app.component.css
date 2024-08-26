@@ -1,0 +1,32 @@
+*{
+    border: 1px solid navy;
+}
+
+#main{
+    max-width: 1000px !important;
+    margin: 0 auto;
+}
+
+header{
+    display: flex;
+    position: sticky;
+    top: 0;
+    background-color: antiquewhite;
+    height: 120px;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.dropdown-content{
+    width: fit-content;
+}
+
+footer{
+    position: static;
+    bottom: 0;
+}
