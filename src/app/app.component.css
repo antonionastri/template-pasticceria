@@ -12,6 +12,7 @@ header {
   top: 0;
   background-color: #e07a5fff;
   height: 120px;
+  z-index: 1;
 }
 
 header img {
